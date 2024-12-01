@@ -1,11 +1,4 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "source": "/",
-      "destination": "/signup",
-      "statusCode": 308
-    }
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/signup" }]
 }
 
