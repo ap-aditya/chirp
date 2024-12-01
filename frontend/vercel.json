@@ -1,9 +1,10 @@
 {
-  "redirects": [
+  "version": 2,
+  "routes": [
     {
       "source": "/",
       "destination": "/signup",
-      "permanent": true
+      "statusCode": 308
     }
   ]
 }
