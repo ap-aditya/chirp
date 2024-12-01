@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://chirp.pheonixap.workers.dev"

@@ -1,0 +1,6 @@
+name = "chirp"
+compatibility_date = "2024-12-01"
+
+[vars]
+DATABASE_URL=""
+JWT_secret=""
